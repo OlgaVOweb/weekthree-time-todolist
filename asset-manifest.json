@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/weekthree-time-todolist/static/css/main.070e8d28.css",
+    "main.css": "/weekthree-time-todolist/static/css/main.613b2f3d.css",
     "main.js": "/weekthree-time-todolist/static/js/main.706de2ef.js",
     "static/js/787.255c80ba.chunk.js": "/weekthree-time-todolist/static/js/787.255c80ba.chunk.js",
     "static/media/plus.png": "/weekthree-time-todolist/static/media/plus.dc4cbe232ce6fef8eb50.png",
     "static/media/h.png": "/weekthree-time-todolist/static/media/h.c968bb905d14e3616b59.png",
     "static/media/list.png": "/weekthree-time-todolist/static/media/list.3f80bb786668c0b0a3a6.png",
     "index.html": "/weekthree-time-todolist/index.html",
-    "main.070e8d28.css.map": "/weekthree-time-todolist/static/css/main.070e8d28.css.map",
+    "main.613b2f3d.css.map": "/weekthree-time-todolist/static/css/main.613b2f3d.css.map",
     "main.706de2ef.js.map": "/weekthree-time-todolist/static/js/main.706de2ef.js.map",
     "787.255c80ba.chunk.js.map": "/weekthree-time-todolist/static/js/787.255c80ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.070e8d28.css",
+    "static/css/main.613b2f3d.css",
     "static/js/main.706de2ef.js"
   ]
 }
