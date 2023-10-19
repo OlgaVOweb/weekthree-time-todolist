@@ -1,0 +1,67 @@
+body {
+    background-color: blueviolet;
+}
+.App {
+    background-color:rgb(248, 196, 248);
+    min-height: 80vh;
+    width: 400px;
+    margin: 20px auto;
+}
+.crossed {
+    text-decoration: line-through 2px violet;
+    background-color: rgb(151, 148, 148);
+}
+.mini {
+    margin-right: 10px;
+}
+
+ul, li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    font-family: 'Geologica', sans-serif;
+}
+h1, button, p, input {
+    font-family: 'Geologica', sans-serif;
+}
+h1 {
+    color: #5e1072;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.Today {
+    display: flex;
+    color: #5e1072;
+    font-weight: bold;
+}
+
+p {
+    padding: 10px;
+}
+.add {
+    margin-top: 25px;
+    background-color: rgb(194, 136, 248);
+}
+.del{
+    background-color: thistle;
+}
+.btn {
+    padding: 10px;
+    border: none;
+    width: 70%;
+    color:#5e1072;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow:  7px 7px 18px violet ,
+            -7px -7px 18px #9218b1;
+    border-radius: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+}
